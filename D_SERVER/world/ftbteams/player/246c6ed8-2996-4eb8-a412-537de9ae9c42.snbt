@@ -1,0 +1,15 @@
+{
+	id: "246c6ed8-2996-4eb8-a412-537de9ae9c42"
+	type: "player"
+	player_name: "MYSTICALFLAMES"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MYSTICALFLAMES"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

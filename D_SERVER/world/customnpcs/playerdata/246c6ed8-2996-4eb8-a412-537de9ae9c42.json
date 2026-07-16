@@ -1,0 +1,182 @@
+{
+    "QuestData": {
+        "ActiveQuests": [
+            {
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 10,
+                            "Slot": "zombie_extreme:infected_military"
+                        }
+                    ]
+                },
+                "QuestCompleted": 1b,
+                "Quest": 18
+            }
+        ],
+        "CompletedQuests": [
+            {
+                "Quest": 4,
+                "Date": 212638L
+            },
+            {
+                "Quest": 5,
+                "Date": 2208603L
+            },
+            {
+                "Quest": 6,
+                "Date": 2208905L
+            },
+            {
+                "Quest": 25,
+                "Date": 3658472L
+            },
+            {
+                "Quest": 26,
+                "Date": 3668664L
+            },
+            {
+                "Quest": 27,
+                "Date": 3669161L
+            },
+            {
+                "Quest": 28,
+                "Date": 3669307L
+            }
+        ]
+    },
+    "jacket": 0,
+    "FactionData": [
+        {
+            "Faction": 0,
+            "Points": 2000
+        },
+        {
+            "Faction": 2,
+            "Points": 0
+        }
+    ],
+    "face": 0,
+    "ItemGiverChained": [
+    ],
+    "ScriptStoreddata": {
+    },
+    "hair": 0,
+    "ItemGiversList": [
+    ],
+    "TransportData": [
+    ],
+    "DialogData": [
+        {
+            "Dialog": 75
+        },
+        {
+            "Dialog": 76
+        },
+        {
+            "Dialog": 77
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 26
+        },
+        {
+            "Dialog": 27
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 29
+        },
+        {
+            "Dialog": 30
+        },
+        {
+            "Dialog": 31
+        },
+        {
+            "Dialog": 100
+        },
+        {
+            "Dialog": 101
+        },
+        {
+            "Dialog": 102
+        },
+        {
+            "Dialog": 103
+        },
+        {
+            "Dialog": 104
+        },
+        {
+            "Dialog": 105
+        },
+        {
+            "Dialog": 106
+        },
+        {
+            "Dialog": 107
+        },
+        {
+            "Dialog": 108
+        },
+        {
+            "Dialog": 109
+        },
+        {
+            "Dialog": 110
+        },
+        {
+            "Dialog": 111
+        },
+        {
+            "Dialog": 112
+        },
+        {
+            "Dialog": 63
+        }
+    ],
+    "PlayerCompanionId": 0,
+    "body": 0,
+    "isActive": 0b,
+    "bodyColor": 0,
+    "NpcsTimers": [
+    ],
+    "shoes": 0,
+    "leg": 0,
+    "PlayerName": "MYSTICALFLAMES",
+    "isMale": 0b,
+    "UUID": "246c6ed8-2996-4eb8-a412-537de9ae9c42",
+    "eyesColor": 0,
+    "MailData": [
+    ],
+    "BankData": [
+    ],
+    "peculiarities": [I;],
+    "hairColor": 0
+}

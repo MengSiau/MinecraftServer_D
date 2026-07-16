@@ -1,0 +1,97 @@
+{
+    "QuestData": {
+        "ActiveQuests": [
+            {
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 10,
+                            "Slot": "zombie_extreme:infected_military"
+                        }
+                    ]
+                },
+                "QuestCompleted": 1b,
+                "Quest": 18
+            },
+            {
+                "ExtraData": {
+                },
+                "QuestCompleted": 0b,
+                "Quest": 25
+            },
+            {
+                "ExtraData": {
+                },
+                "QuestCompleted": 0b,
+                "Quest": 13
+            }
+        ],
+        "CompletedQuests": [
+        ]
+    },
+    "jacket": 0,
+    "FactionData": [
+        {
+            "Faction": 0,
+            "Points": 2000
+        },
+        {
+            "Faction": 2,
+            "Points": 0
+        }
+    ],
+    "face": 0,
+    "ItemGiverChained": [
+    ],
+    "ScriptStoreddata": {
+    },
+    "hair": 0,
+    "ItemGiversList": [
+    ],
+    "TransportData": [
+    ],
+    "DialogData": [
+        {
+            "Dialog": 64
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 100
+        },
+        {
+            "Dialog": 101
+        },
+        {
+            "Dialog": 102
+        },
+        {
+            "Dialog": 75
+        },
+        {
+            "Dialog": 76
+        },
+        {
+            "Dialog": 77
+        }
+    ],
+    "PlayerCompanionId": 0,
+    "body": 0,
+    "isActive": 0b,
+    "bodyColor": 0,
+    "NpcsTimers": [
+    ],
+    "shoes": 0,
+    "leg": 0,
+    "PlayerName": "starfighters007",
+    "isMale": 0b,
+    "UUID": "13141d53-4cf0-4967-bda8-421ed00f4b63",
+    "eyesColor": 0,
+    "MailData": [
+    ],
+    "BankData": [
+    ],
+    "peculiarities": [I;],
+    "hairColor": 0
+}

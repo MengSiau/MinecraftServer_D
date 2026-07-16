@@ -1,0 +1,15 @@
+{
+	id: "5925e9b1-1e4a-4d3e-b676-a36edc11d1b2"
+	type: "player"
+	player_name: "Hitman2006"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Hitman2006"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

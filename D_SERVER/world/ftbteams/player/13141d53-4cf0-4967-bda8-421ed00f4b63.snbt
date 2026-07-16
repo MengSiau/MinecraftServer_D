@@ -1,0 +1,15 @@
+{
+	id: "13141d53-4cf0-4967-bda8-421ed00f4b63"
+	type: "player"
+	player_name: "starfighters007"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "starfighters007"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6FFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

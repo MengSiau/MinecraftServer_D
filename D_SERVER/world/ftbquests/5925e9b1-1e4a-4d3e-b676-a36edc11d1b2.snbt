@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "5925e9b11e4a4d3eb676a36edc11d1b2"
+	name: "Hitman2006#5925e9b1"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		1906AC8618EB189D: 1
+	}
+	started: {
+		2246728C6406A545: 1783333723866L
+		0000000000000001: 1783333723866L
+		1906AC8618EB189D: 1783333723866L
+		6D17A5DA605BA681: 1783333723866L
+	}
+	completed: {
+		1906AC8618EB189D: 1783333723867L
+		6D17A5DA605BA681: 1783333723867L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

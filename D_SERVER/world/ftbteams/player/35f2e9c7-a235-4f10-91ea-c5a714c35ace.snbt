@@ -1,0 +1,15 @@
+{
+	id: "35f2e9c7-a235-4f10-91ea-c5a714c35ace"
+	type: "player"
+	player_name: "cheekypea123"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "cheekypea123"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
