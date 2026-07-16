@@ -283,6 +283,7 @@
       "snowy_coniferous_forest": "2026-07-08 19:25:02 +1000",
       "snowy_fir_clearing": "2026-07-08 19:37:43 +1000",
       "tundra": "2026-07-08 18:35:46 +1000",
+      "gravel_beach": "2026-07-17 00:03:35 +1000",
       "rainforest": "2026-07-09 15:15:14 +1000",
       "crag": "2026-07-08 17:11:56 +1000"
     },
@@ -574,6 +575,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2026-07-08 18:35:48 +1000",
       "minecraft:taiga": "2026-07-06 20:47:24 +1000",
+      "minecraft:deep_ocean": "2026-07-17 00:00:18 +1000",
       "minecraft:frozen_river": "2026-07-08 18:35:59 +1000",
       "minecraft:birch_forest": "2026-07-02 23:00:52 +1000",
       "minecraft:windswept_hills": "2026-07-04 22:19:38 +1000",
@@ -589,7 +591,9 @@
       "minecraft:grove": "2026-07-08 19:58:41 +1000",
       "minecraft:swamp": "2026-07-08 20:03:41 +1000",
       "minecraft:jagged_peaks": "2026-07-04 20:00:38 +1000",
+      "minecraft:cold_ocean": "2026-07-17 00:02:49 +1000",
       "minecraft:forest": "2026-07-08 17:06:38 +1000",
+      "minecraft:deep_cold_ocean": "2026-07-17 00:02:12 +1000",
       "minecraft:ice_spikes": "2026-07-08 19:42:14 +1000",
       "minecraft:ocean": "2026-07-09 15:11:47 +1000",
       "minecraft:jungle": "2026-07-09 15:41:44 +1000",
@@ -23331,6 +23335,126 @@
   "bakery:main/eat_pudding": {
     "criteria": {
       "pudding_slice": "2026-07-16 19:10:45 +1000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/retail_district/multi_hospital": {
+    "criteria": {
+      "multi_hospital": "2026-07-17 00:07:46 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2026-07-16 23:20:13 +1000"
     },
     "done": true
   },
