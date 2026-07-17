@@ -1,23 +1,23 @@
 {
     "QuestData": {
         "ActiveQuests": [
-            {
-                "ExtraData": {
-                    "Killed": [
-                        {
-                            "Value": 10,
-                            "Slot": "zombie_extreme:infected_military"
-                        }
-                    ]
-                },
-                "QuestCompleted": 1b,
-                "Quest": 18
-            }
         ],
         "CompletedQuests": [
             {
+                "Quest": 18,
+                "Date": 7504518L
+            },
+            {
+                "Quest": 19,
+                "Date": 7524273L
+            },
+            {
                 "Quest": 4,
                 "Date": 212638L
+            },
+            {
+                "Quest": 20,
+                "Date": 7524374L
             },
             {
                 "Quest": 5,
@@ -77,22 +77,52 @@
             "Dialog": 77
         },
         {
+            "Dialog": 78
+        },
+        {
+            "Dialog": 79
+        },
+        {
+            "Dialog": 80
+        },
+        {
+            "Dialog": 81
+        },
+        {
             "Dialog": 18
+        },
+        {
+            "Dialog": 82
         },
         {
             "Dialog": 19
         },
         {
+            "Dialog": 83
+        },
+        {
             "Dialog": 20
+        },
+        {
+            "Dialog": 84
         },
         {
             "Dialog": 21
         },
         {
+            "Dialog": 85
+        },
+        {
             "Dialog": 22
         },
         {
+            "Dialog": 86
+        },
+        {
             "Dialog": 23
+        },
+        {
+            "Dialog": 87
         },
         {
             "Dialog": 24
