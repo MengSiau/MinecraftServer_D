@@ -1,9 +1,8 @@
-[14:38:45][FINE/customnpcs][noppes.npcs.shared.common.util.LogWriter:62] Wed Jul 15 14:38:45 AEST 2026
-[14:38:45][FINE/customnpcs][noppes.npcs.controllers.ScriptController:57] Script Engines Available:
-[14:38:45][FINE/customnpcs][noppes.npcs.controllers.ScriptController:119] lua: .lua
-[14:38:45][FINE/customnpcs][noppes.npcs.controllers.ScriptController:119] ECMAScript: .js
-[14:38:58][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
-[14:38:58][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
-[14:38:59][FINE/customnpcs][noppes.npcs.controllers.DialogController:41] Loading Dialogs
-[14:38:59][FINE/customnpcs][noppes.npcs.controllers.DialogController:43] Done loading Dialogs
-[22:37:12][FINE/customnpcs][noppes.npcs.shared.common.CommonUtil:34] Couldn't grant advancement [The Taste of Freedom] to starfighters007 as they already have it
+[17:26:32][FINE/customnpcs][noppes.npcs.shared.common.util.LogWriter:62] Thu Jul 16 17:26:32 AEST 2026
+[17:26:32][FINE/customnpcs][noppes.npcs.controllers.ScriptController:57] Script Engines Available:
+[17:26:32][FINE/customnpcs][noppes.npcs.controllers.ScriptController:119] lua: .lua
+[17:26:32][FINE/customnpcs][noppes.npcs.controllers.ScriptController:119] ECMAScript: .js
+[17:26:44][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
+[17:26:44][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
+[17:26:46][FINE/customnpcs][noppes.npcs.controllers.DialogController:41] Loading Dialogs
+[17:26:46][FINE/customnpcs][noppes.npcs.controllers.DialogController:43] Done loading Dialogs

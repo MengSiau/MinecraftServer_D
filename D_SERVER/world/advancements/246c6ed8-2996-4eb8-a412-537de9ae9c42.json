@@ -23356,12 +23356,6 @@
     },
     "done": true
   },
-  "deceasedcraft:large_building/retail_district/multi_hospital": {
-    "criteria": {
-      "multi_hospital": "2026-07-17 00:07:46 +1000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
     "criteria": {
       "has_barrel": "2026-07-16 23:20:13 +1000"
@@ -23455,6 +23449,228 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
     "criteria": {
       "has_barrel": "2026-07-16 23:20:13 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/retail_district/multi_hospital": {
+    "criteria": {
+      "multi_hospital": "2026-07-17 00:07:46 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-07-17 15:58:35 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_lead_from_slab": {
+    "criteria": {
+      "has_storage_lead": "2026-07-17 13:39:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_pick": {
+    "criteria": {
+      "has_pickaxe_steel": "2026-07-17 17:55:40 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_nickel_to_slab": {
+    "criteria": {
+      "has_storage_nickel": "2026-07-17 15:16:47 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_chestplate": {
+    "criteria": {
+      "has_armor_steel_chestplate": "2026-07-17 16:41:07 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie_from_slices": {
+    "criteria": {
+      "has_chocolate_pie_slice": "2026-07-17 16:13:54 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/experience_battery": {
+    "criteria": {
+      "experience_battery": "2026-07-17 16:14:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_helmet": {
+    "criteria": {
+      "has_armor_steel_helmet": "2026-07-17 16:40:26 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_leggings": {
+    "criteria": {
+      "has_armor_steel_leggings": "2026-07-17 16:42:23 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_crusher": {
+    "criteria": {
+      "form_multiblock": "2026-07-17 14:16:01 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-07-17 15:58:35 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_boots_from_blasting": {
+    "criteria": {
+      "has_armor_steel_boots": "2026-07-17 16:43:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_leggings_from_blasting": {
+    "criteria": {
+      "has_armor_steel_leggings": "2026-07-17 16:42:23 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_lead_to_slab": {
+    "criteria": {
+      "has_storage_lead": "2026-07-17 13:39:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_nickel_from_slab": {
+    "criteria": {
+      "has_storage_nickel": "2026-07-17 15:16:47 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-07-17 15:58:35 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_pick_from_blasting": {
+    "criteria": {
+      "has_pickaxe_steel": "2026-07-17 17:55:40 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_chestplate_from_blasting": {
+    "criteria": {
+      "has_armor_steel_chestplate": "2026-07-17 16:41:07 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_helmet_from_blasting": {
+    "criteria": {
+      "has_armor_steel_helmet": "2026-07-17 16:40:26 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container_from_dyeing_vaults": {
+    "criteria": {
+      "has_item": "2026-07-17 17:00:12 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_steel_boots": {
+    "criteria": {
+      "has_armor_steel_boots": "2026-07-17 16:43:12 +1000"
     },
     "done": true
   },
