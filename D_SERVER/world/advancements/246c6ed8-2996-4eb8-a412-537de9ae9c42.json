@@ -25130,5 +25130,23 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_shovel_from_blasting": {
+    "criteria": {
+      "has_shovel_steel": "2026-07-19 03:50:35 +1000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/chargingfe": {
+    "criteria": {
+      "has_item": "2026-07-19 03:43:47 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/nugget_steel_recycle_shovel": {
+    "criteria": {
+      "has_shovel_steel": "2026-07-19 03:50:35 +1000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
