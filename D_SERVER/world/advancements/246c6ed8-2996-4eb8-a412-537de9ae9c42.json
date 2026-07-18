@@ -285,6 +285,7 @@
       "volcanic_plains": "2026-07-17 22:48:10 +1000",
       "lavender_field": "2026-07-09 15:12:26 +1000",
       "fir_clearing": "2026-07-08 18:30:35 +1000",
+      "pumpkin_patch": "2026-07-18 21:15:17 +1000",
       "prairie": "2026-07-09 00:16:49 +1000",
       "grassland": "2026-07-17 22:31:20 +1000",
       "snowy_coniferous_forest": "2026-07-08 19:25:02 +1000",
@@ -653,6 +654,7 @@
       "bakery:chocolate_cake": "2026-07-02 23:42:08 +1000",
       "bakery:croissant": "2026-07-04 21:03:31 +1000",
       "bakery:jam_roll": "2026-07-14 21:41:58 +1000",
+      "bakery:strawberry_glazed_cookie": "2026-07-18 21:43:03 +1000",
       "bakery:apple_jam": "2026-07-08 16:13:37 +1000"
     },
     "done": false
@@ -2695,12 +2697,15 @@
       "porkchop": "2026-07-09 16:53:27 +1000",
       "apple": "2026-07-04 20:13:09 +1000",
       "potato": "2026-07-09 16:52:24 +1000",
+      "rabbit": "2026-07-18 20:41:37 +1000",
       "mutton": "2026-07-09 02:59:34 +1000",
+      "pufferfish": "2026-07-18 21:38:47 +1000",
       "bread": "2026-07-02 22:36:53 +1000",
       "golden_apple": "2026-07-02 23:45:31 +1000",
       "cookie": "2026-07-04 22:43:04 +1000",
       "rotten_flesh": "2026-07-09 16:53:37 +1000",
       "dried_kelp": "2026-07-09 16:53:24 +1000",
+      "salmon": "2026-07-18 21:38:33 +1000",
       "melon_slice": "2026-07-06 19:06:12 +1000",
       "golden_carrot": "2026-07-13 03:04:59 +1000",
       "beetroot": "2026-07-14 20:50:28 +1000",
@@ -5984,7 +5989,8 @@
       "bakery:sweetberry_glazed_cookie": "2026-07-14 21:03:11 +1000",
       "bakery:chocolate_cake": "2026-07-02 23:42:08 +1000",
       "bakery:chocolate_glazed_cookie": "2026-07-14 21:03:06 +1000",
-      "bakery:apple_cupcake": "2026-07-14 21:03:08 +1000"
+      "bakery:apple_cupcake": "2026-07-14 21:03:08 +1000",
+      "bakery:strawberry_glazed_cookie": "2026-07-18 21:43:03 +1000"
     },
     "done": false
   },
@@ -18045,9 +18051,14 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2026-07-09 00:38:39 +1000",
+      "steak_and_potatoes": "2026-07-18 21:12:30 +1000",
+      "chicken_soup": "2026-07-18 21:12:34 +1000",
       "mushroom_rice": "2026-07-14 21:46:50 +1000",
       "beef_stew": "2026-07-11 20:26:37 +1000",
-      "pasta_with_mutton_chop": "2026-07-09 02:53:19 +1000"
+      "pasta_with_meatballs": "2026-07-18 21:11:17 +1000",
+      "fish_stew": "2026-07-18 21:12:37 +1000",
+      "pasta_with_mutton_chop": "2026-07-09 02:53:19 +1000",
+      "fried_rice": "2026-07-18 21:12:41 +1000"
     },
     "done": false
   },
@@ -22271,6 +22282,7 @@
       "vinery:chorus_wine": "2026-07-12 01:06:19 +1000",
       "vinery:magnetic_wine": "2026-07-12 01:06:19 +1000",
       "vinery:bolvar_wine": "2026-07-12 01:09:05 +1000",
+      "vinery:mead": "2026-07-18 20:41:28 +1000",
       "vinery:cristel_wine": "2026-07-12 01:07:34 +1000",
       "vinery:clark_wine": "2026-07-12 01:07:33 +1000",
       "vinery:chenet_wine": "2026-07-12 01:07:34 +1000",
@@ -24618,12 +24630,6 @@
     },
     "done": true
   },
-  "refinedstorage:storing_items": {
-    "criteria": {
-      "storage_disk_in_inventory": "2026-07-18 14:03:51 +1000"
-    },
-    "done": true
-  },
   "refinedstorage:conditional_connecting": {
     "criteria": {
       "relay_in_inventory": "2026-07-18 13:53:24 +1000"
@@ -24633,6 +24639,480 @@
   "create:deployer": {
     "criteria": {
       "0": "2026-07-18 13:58:15 +1000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2026-07-18 14:03:51 +1000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "red": "2026-07-18 19:57:15 +1000"
+    },
+    "done": false
+  },
+  "deceasedcraft:large_building/highrise_residential/multi_taigaresidence": {
+    "criteria": {
+      "multi_taigaresidence": "2026-07-18 20:37:23 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_1": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_2": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_3": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_4": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_5": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_6": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_stairs_7": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_2": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_3": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_1": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_6": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_7": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_4": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_slab_5": {
+    "criteria": {
+      "has_planks": "2026-07-18 21:23:42 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-07-18 20:48:26 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_boots": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/packager": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/item_frame": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_pink_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/charlie": {
+    "criteria": {
+      "npc": "2026-07-18 21:27:26 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/chuck": {
+    "criteria": {
+      "npc": "2026-07-18 20:33:44 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_block": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2026-07-18 21:38:00 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/bound_cardboard_block": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/andesite_ornament": {
+    "criteria": {
+      "has_polished_andesite_slab": "2026-07-18 21:25:37 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_block": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-07-18 20:48:26 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/highrise_residential/multi_hospitaldamaged": {
+    "criteria": {
+      "multi_hospitaldamaged": "2026-07-18 20:09:40 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/tyberghein": {
+    "criteria": {
+      "npc": "2026-07-18 20:13:54 +1000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/thermal_resistance_ring": {
+    "criteria": {
+      "has_heat_resistance_ring": "2026-07-18 20:28:08 +1000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/highrise_residential/multi_flatmedium": {
+    "criteria": {
+      "multi_flatmedium": "2026-07-18 20:36:58 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_pink_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
     },
     "done": true
   },
