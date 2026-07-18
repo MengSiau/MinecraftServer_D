@@ -1,12 +1,6 @@
 {
     "QuestData": {
         "ActiveQuests": [
-            {
-                "ExtraData": {
-                },
-                "QuestCompleted": 0b,
-                "Quest": 15
-            }
         ],
         "CompletedQuests": [
             {
@@ -52,6 +46,18 @@
             {
                 "Quest": 14,
                 "Date": 7938183L
+            },
+            {
+                "Quest": 15,
+                "Date": 7962113L
+            },
+            {
+                "Quest": 16,
+                "Date": 8035570L
+            },
+            {
+                "Quest": 17,
+                "Date": 8035641L
             },
             {
                 "Quest": 18,
@@ -266,10 +272,28 @@
             "Dialog": 66
         },
         {
+            "Dialog": 67
+        },
+        {
+            "Dialog": 68
+        },
+        {
+            "Dialog": 69
+        },
+        {
+            "Dialog": 70
+        },
+        {
+            "Dialog": 71
+        },
+        {
             "Dialog": 72
         },
         {
             "Dialog": 73
+        },
+        {
+            "Dialog": 74
         },
         {
             "Dialog": 75

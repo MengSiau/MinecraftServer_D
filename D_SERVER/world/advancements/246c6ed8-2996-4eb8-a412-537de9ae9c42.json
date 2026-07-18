@@ -2698,6 +2698,7 @@
       "apple": "2026-07-04 20:13:09 +1000",
       "potato": "2026-07-09 16:52:24 +1000",
       "rabbit": "2026-07-18 20:41:37 +1000",
+      "poisonous_potato": "2026-07-18 23:18:04 +1000",
       "mutton": "2026-07-09 02:59:34 +1000",
       "pufferfish": "2026-07-18 21:38:47 +1000",
       "bread": "2026-07-02 22:36:53 +1000",
@@ -24650,13 +24651,260 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
-      "red": "2026-07-18 19:57:15 +1000"
+      "red": "2026-07-18 19:57:15 +1000",
+      "blue": "2026-07-19 00:05:16 +1000"
     },
     "done": false
+  },
+  "deceasedcraft:large_building/highrise_residential/multi_hospitaldamaged": {
+    "criteria": {
+      "multi_hospitaldamaged": "2026-07-18 20:09:40 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_pink_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_pink_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 20:13:32 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/tyberghein": {
+    "criteria": {
+      "npc": "2026-07-18 20:13:54 +1000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/thermal_resistance_ring": {
+    "criteria": {
+      "has_heat_resistance_ring": "2026-07-18 20:28:08 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/chuck": {
+    "criteria": {
+      "npc": "2026-07-18 20:33:44 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/highrise_residential/multi_flatmedium": {
+    "criteria": {
+      "multi_flatmedium": "2026-07-18 20:36:58 +1000"
+    },
+    "done": true
   },
   "deceasedcraft:large_building/highrise_residential/multi_taigaresidence": {
     "criteria": {
       "multi_taigaresidence": "2026-07-18 20:37:23 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-07-18 20:41:34 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-07-18 20:48:26 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-07-18 20:48:26 +1000"
     },
     "done": true
   },
@@ -24702,78 +24950,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
-    "criteria": {
-      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2026-07-18 20:41:34 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
-    "criteria": {
-      "has_rabbit": "2026-07-18 20:41:34 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/book": {
-    "criteria": {
-      "has_item": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
-    "criteria": {
-      "has_item": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_toilet": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/cardboard_sword": {
-    "criteria": {
-      "has_item": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
   "buildersdelight:recipes/misc/dark_oak_slab_2": {
     "criteria": {
       "has_planks": "2026-07-18 21:23:42 +1000"
@@ -24816,9 +24992,39 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+  "embellishcraft:recipes/embellishcraft_rocks_group/andesite_ornament": {
     "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
+      "has_polished_andesite_slab": "2026-07-18 21:25:37 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/charlie": {
+    "criteria": {
+      "npc": "2026-07-18 21:27:26 +1000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2026-07-18 21:38:00 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2026-07-18 21:46:28 +1000"
     },
     "done": true
   },
@@ -24834,12 +25040,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2026-07-18 20:48:26 +1000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/redstone_requester": {
     "criteria": {
       "has_item": "2026-07-18 21:46:28 +1000"
@@ -24852,39 +25052,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cod_roll": {
-    "criteria": {
-      "has_cod_slice": "2026-07-18 20:41:58 +1000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
     "criteria": {
       "has_item": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice": {
-    "criteria": {
-      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
     },
     "done": true
   },
@@ -24912,69 +25082,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_pink_picket_fence": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
     "criteria": {
       "has_item": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2026-07-18 20:41:34 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "deceasedcraft:npcs/charlie": {
-    "criteria": {
-      "npc": "2026-07-18 21:27:26 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "deceasedcraft:npcs/chuck": {
-    "criteria": {
-      "npc": "2026-07-18 20:33:44 +1000"
     },
     "done": true
   },
@@ -24984,21 +25094,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/rice_roll_medley_block": {
-    "criteria": {
-      "has_rice_roll": "2026-07-18 21:38:00 +1000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/bound_cardboard_block": {
     "criteria": {
       "has_item": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/andesite_ornament": {
-    "criteria": {
-      "has_polished_andesite_slab": "2026-07-18 21:25:37 +1000"
     },
     "done": true
   },
@@ -25008,69 +25106,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2026-07-18 20:48:26 +1000"
-    },
-    "done": true
-  },
-  "deceasedcraft:large_building/highrise_residential/multi_hospitaldamaged": {
-    "criteria": {
-      "multi_hospitaldamaged": "2026-07-18 20:09:40 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "deceasedcraft:npcs/tyberghein": {
-    "criteria": {
-      "npc": "2026-07-18 20:13:54 +1000"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/misc/thermal_resistance_ring": {
-    "criteria": {
-      "has_heat_resistance_ring": "2026-07-18 20:28:08 +1000"
-    },
-    "done": true
-  },
   "create:cardboard": {
     "criteria": {
       "0": "2026-07-18 21:46:28 +1000"
-    },
-    "done": true
-  },
-  "deceasedcraft:large_building/highrise_residential/multi_flatmedium": {
-    "criteria": {
-      "multi_flatmedium": "2026-07-18 20:36:58 +1000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
-    "criteria": {
-      "has_pink_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2026-07-18 20:41:34 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-07-18 20:13:32 +1000"
     },
     "done": true
   },
@@ -25080,39 +25118,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_needed_dye": "2026-07-18 20:13:32 +1000"
+      "has_warped_fungus": "2026-07-18 23:02:56 +1000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+  "vinery:main/wild_harvest": {
     "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
-    "criteria": {
-      "cooked_cod_slice": "2026-07-18 20:41:58 +1000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_pink_picket_gate": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2026-07-18 20:13:32 +1000"
+      "red_jungle_grape_seeds": "2026-07-19 00:05:11 +1000"
     },
     "done": true
   },
