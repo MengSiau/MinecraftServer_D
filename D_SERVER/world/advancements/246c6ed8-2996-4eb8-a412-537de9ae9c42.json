@@ -23748,5 +23748,893 @@
     },
     "done": true
   },
+  "minecraft:recipes/embellishcraft_rocks_group/polished_basalt_wall_from_polished_basalt_stonecutting": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt_wall": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt_pressure_plate": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/basalt_paving": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt_stairs": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/polished_basalt_pressure_plate_from_polished_basalt_stonecutting": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/polished_basalt_stairs_from_polished_basalt_stonecutting": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt_slab": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/polished_basalt_slab_from_polished_basalt_stonecutting": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/basalt_ornament_from_polished_basalt_stonecutting": {
+    "criteria": {
+      "has_polished_basalt": "2026-07-18 12:59:59 +1000"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless_fluids": {
+    "criteria": {
+      "wireless_fluid_grid_in_inventory": "2026-07-18 13:02:11 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_toilet": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_gray_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:17 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_brown_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_brown_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_brown_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:18 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_toilet": {
+    "criteria": {
+      "has_light_gray_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:02:35 +1000"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2026-07-18 13:03:03 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/locked_andesite_door": {
+    "criteria": {
+      "has_item": "2026-07-18 13:03:28 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_sink": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_lime_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_toilet": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_lime_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_lime_dye": "2026-07-18 13:03:56 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_toilet": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_bath": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_green_picket_fence": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_green_picket_gate": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_toilet": {
+    "criteria": {
+      "has_green_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-07-18 13:05:02 +1000"
+    },
+    "done": true
+  },
+  "deceasedcraft:npcs/blake": {
+    "criteria": {
+      "npc": "2026-07-18 13:06:36 +1000"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless": {
+    "criteria": {
+      "wireless_transmitter_in_inventory": "2026-07-18 13:08:51 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_gray_to_slab": {
+    "criteria": {
+      "has_sheetmetal_colored_gray": "2026-07-18 13:08:53 +1000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_gray_from_slab": {
+    "criteria": {
+      "has_sheetmetal_colored_gray": "2026-07-18 13:08:53 +1000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2026-07-18 14:03:51 +1000"
+    },
+    "done": true
+  },
+  "refinedstorage:conditional_connecting": {
+    "criteria": {
+      "relay_in_inventory": "2026-07-18 13:53:24 +1000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2026-07-18 13:58:15 +1000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -4,20 +4,8 @@
         ],
         "CompletedQuests": [
             {
-                "Quest": 18,
-                "Date": 7504518L
-            },
-            {
-                "Quest": 19,
-                "Date": 7524273L
-            },
-            {
                 "Quest": 4,
                 "Date": 212638L
-            },
-            {
-                "Quest": 20,
-                "Date": 7524374L
             },
             {
                 "Quest": 5,
@@ -26,6 +14,34 @@
             {
                 "Quest": 6,
                 "Date": 2208905L
+            },
+            {
+                "Quest": 18,
+                "Date": 7504518L
+            },
+            {
+                "Quest": 19,
+                "Date": 7524273L
+            },
+            {
+                "Quest": 20,
+                "Date": 7524374L
+            },
+            {
+                "Quest": 21,
+                "Date": 7728906L
+            },
+            {
+                "Quest": 22,
+                "Date": 7741324L
+            },
+            {
+                "Quest": 23,
+                "Date": 1784346336254L
+            },
+            {
+                "Quest": 24,
+                "Date": 7741584L
             },
             {
                 "Quest": 25,
@@ -68,61 +84,22 @@
     ],
     "DialogData": [
         {
-            "Dialog": 75
-        },
-        {
-            "Dialog": 76
-        },
-        {
-            "Dialog": 77
-        },
-        {
-            "Dialog": 78
-        },
-        {
-            "Dialog": 79
-        },
-        {
-            "Dialog": 80
-        },
-        {
-            "Dialog": 81
-        },
-        {
             "Dialog": 18
-        },
-        {
-            "Dialog": 82
         },
         {
             "Dialog": 19
         },
         {
-            "Dialog": 83
-        },
-        {
             "Dialog": 20
-        },
-        {
-            "Dialog": 84
         },
         {
             "Dialog": 21
         },
         {
-            "Dialog": 85
-        },
-        {
             "Dialog": 22
         },
         {
-            "Dialog": 86
-        },
-        {
             "Dialog": 23
-        },
-        {
-            "Dialog": 87
         },
         {
             "Dialog": 24
@@ -147,6 +124,84 @@
         },
         {
             "Dialog": 31
+        },
+        {
+            "Dialog": 63
+        },
+        {
+            "Dialog": 75
+        },
+        {
+            "Dialog": 76
+        },
+        {
+            "Dialog": 77
+        },
+        {
+            "Dialog": 78
+        },
+        {
+            "Dialog": 79
+        },
+        {
+            "Dialog": 80
+        },
+        {
+            "Dialog": 81
+        },
+        {
+            "Dialog": 82
+        },
+        {
+            "Dialog": 83
+        },
+        {
+            "Dialog": 84
+        },
+        {
+            "Dialog": 85
+        },
+        {
+            "Dialog": 86
+        },
+        {
+            "Dialog": 87
+        },
+        {
+            "Dialog": 88
+        },
+        {
+            "Dialog": 89
+        },
+        {
+            "Dialog": 90
+        },
+        {
+            "Dialog": 91
+        },
+        {
+            "Dialog": 92
+        },
+        {
+            "Dialog": 93
+        },
+        {
+            "Dialog": 94
+        },
+        {
+            "Dialog": 95
+        },
+        {
+            "Dialog": 96
+        },
+        {
+            "Dialog": 97
+        },
+        {
+            "Dialog": 98
+        },
+        {
+            "Dialog": 99
         },
         {
             "Dialog": 100
@@ -186,9 +241,6 @@
         },
         {
             "Dialog": 112
-        },
-        {
-            "Dialog": 63
         }
     ],
     "PlayerCompanionId": 0,
