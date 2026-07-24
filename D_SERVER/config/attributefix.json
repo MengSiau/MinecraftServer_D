@@ -249,8 +249,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "puffish_attributes:player.mining_speed": {
@@ -260,8 +260,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "forge:entity_reach": {
@@ -293,8 +293,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "undead_revamp2:cheroattackspeed": {
@@ -348,8 +348,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "puffish_attributes:player.healing": {
@@ -359,8 +359,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "attributeslib:dodge_chance": {
@@ -414,8 +414,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -491,8 +491,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "puffish_attributes:player.melee_damage": {
@@ -502,8 +502,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "attributeslib:crit_damage": {
@@ -557,8 +557,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "forge:block_reach": {
@@ -579,8 +579,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "minecraft:generic.attack_speed": {
@@ -700,8 +700,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "attributeslib:prot_pierce": {
@@ -788,8 +788,8 @@
         "value": 0
       },
       "max": {
-        "default": 179769313486231584,
-        "value": 179769313486231584
+        "default": 179769313486231580,
+        "value": 179769313486231580
       }
     },
     "minecraft:generic.movement_speed": {
